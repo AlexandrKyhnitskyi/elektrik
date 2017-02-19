@@ -1,0 +1,29 @@
+#btn-btn{
+    background-color: #1a4580;
+    /*margin-left: 200px;*/
+    float: right;
+}
+#cont{
+    display: block;
+}
+.btn-cont-btn{
+    background-color: #476a99;
+    color: #FFFFFF;
+    float: right;
+}
+
+footer .form.form-inline .form-group.field-feedback-name .help-block,
+footer .form.form-inline .form-group.field-feedback-phone .help-block {
+    color: #eeee22;
+    font-size: 14px;
+    position: absolute;
+    top: 77px;
+}
+
+footer .form.form-inline .form-group.field-feedback-name .help-block {
+    margin-left: 10px;
+}
+
+footer .form.form-inline .form-group.field-feedback-phone .help-block {
+    margin-left: 284px;
+}

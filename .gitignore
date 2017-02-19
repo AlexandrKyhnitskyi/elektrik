@@ -1,0 +1,6 @@
+.idea
+/app/config/db.php
+/vendor/
+/composer.phar
+Thumbs.db
+
